@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoadAppUdacity</string>
+    <string name="glide">Glide</string>
+    <string name="ok">OK</string>
+    <string name="no_network">No Network</string>
+    <string name="select_option">Select Option</string>
+    <string name="Notification">notification</string>
+    <string name="notification">Notification</string>
+    <string name="app_description">Download app</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="load_app">Load App</string>
+</resources>
